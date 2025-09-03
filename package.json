@@ -1,0 +1,17 @@
+{
+  "name": "formweb",
+  "version": "1.0.0",
+  "description": "Form Input Sederhana",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "husnakamilaa",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "mysql2": "^3.14.4"
+  }
+}
