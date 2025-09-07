@@ -32,16 +32,26 @@ FORMWEB/
 
 ## Cara Menjalankan
 
-```
-1. Install library yang dibutuhkan 
+
+3. Install library yang dibutuhkan
+   
+   ```
    npm install
-2. jalankan server 
+   ```
+   
+4. jalankan server
+   
+   ```
    node server.js
-3. Buka browser lalu akses 
+   ```
+   
+5. Buka browser lalu akses
+   
+   ```
    http://localhost:3380/api/records : untuk akses get 
    http://localhost:3380/form.html : akses halaman form input 
-   http://localhost:3380/daftarPage.html : akses halaman daftar 
-```
+   http://localhost:3380/daftarPage.html : akses halaman daftar
+   ```
 
 ## Halaman Form Input
 <p align="center">
