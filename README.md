@@ -3,9 +3,7 @@
 ## Daftar Isi
 1. [Struktur Folder](#struktur-folder)
 2. [Cara Menjalankan](#cara-menjalankan)
-3. [ Screenshot Halaman Form Input](#halaman-form-input)
-4. [Screenshot Halaman Daftar](#halaman-daftar)
-5. [Screenshot Get /api/records](#get-apirecords)
+3. [ Dokumentasi Project ](#documentasi-project)
 
 ---
 
@@ -66,17 +64,17 @@ FORMWEB/
    http://localhost:3380/daftarPage.html : akses halaman daftar
    ```
 
-## Halaman Form Input
-<p align="center">
-  <img width="1920" height="1080" alt="Screenshot (1687)" src="https://github.com/user-attachments/assets/3a958784-f5dd-4f37-b6b4-5bc5ef9fcd5a" width="600" />
-</p>
+## Dokumentasi Project
 
-## Halaman Daftar
-<p align="center">
-  <img width="1920" height="1080" alt="Screenshot (1688)" src="https://github.com/user-attachments/assets/e1876c6a-fe17-4a8e-9e66-1953efe0bb71" width="600" />
-</p>
+## Dokumentasi Project
 
-## GET /api/records
-<p align="center">
-  <img width="1920" height="1080" alt="Screenshot (1689)" src="https://github.com/user-attachments/assets/b7689c52-3eae-4380-9050-3848a6b930d5" width="600" />
-</p>
+| **Halaman Form Input** |
+|----------|
+| <img src="https://github.com/user-attachments/assets/3a958784-f5dd-4f37-b6b4-5bc5ef9fcd5a" width="600" /> |
+| **Halaman Daftar** |
+|----------|
+| <img src="https://github.com/user-attachments/assets/e1876c6a-fe17-4a8e-9e66-1953efe0bb71" width="600" /> |
+| **GET /api/records** |
+|----------|
+| <img src="https://github.com/user-attachments/assets/b7689c52-3eae-4380-9050-3848a6b930d5" width="600" /> |
+
