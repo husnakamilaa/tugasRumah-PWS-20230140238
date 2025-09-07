@@ -4,6 +4,8 @@
 1. [Halaman Form Input](#halaman-form-input)
 2. [Halaman Daftar](#halaman-daftar)
 3. [Get /api/records](#get-apirecords)
+4. [Struktur Folder](#struktur-folder)
+5. [Cara Menjalankan](#cara-menjalankan)
 
 ---
 
@@ -44,6 +46,7 @@ FORMWEB/
 
 ## Cara Menjalankan
 
+```
 1. Install library yang dibutuhkan <br>
    npm install
 2. jalankan server <br>
@@ -52,7 +55,4 @@ FORMWEB/
    http://localhost:3380/api/records : untuk akses get <br>
    http://localhost:3380/form.html : akses halaman form input <br>
    http://localhost:3380/daftarPage.html : akses halaman daftar <br>
-
-<img width="731" height="112" alt="image" src="https://github.com/user-attachments/assets/aa42f314-67c7-47aa-a6ae-93aa222cfd7a" width="400" />
-
-   
+```
