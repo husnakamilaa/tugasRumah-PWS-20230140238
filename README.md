@@ -1,7 +1,23 @@
 # Tampilan Form
 
-<div style="width: 60%; margin: 0 auto; text-align: center;">
-  <img src="https://github.com/user-attachments/assets/5525a798-607f-4f99-a21b-23f42c506510" alt="Screenshot 1" style="width: 60%; max-width: 600px; margin-bottom: 15px;">
-  <br>
-  <img src="https://github.com/user-attachments/assets/21b911b5-a194-4e98-922d-e63de7de1d95" alt="Screenshot 2" style="width: 60%; max-width: 600px;">
-</div>
+## Daftar Gambar
+1. [Halaman Form Input](#halaman-form-input)
+2. [Halaman Daftar](#halaman-daftar)
+3. [Get /api/records](#get-/api/records)
+
+---
+
+## Halaman Form Input
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (1687)" src="https://github.com/user-attachments/assets/3a958784-f5dd-4f37-b6b4-5bc5ef9fcd5a" />
+</p>
+
+## Halaman Daftar
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (1688)" src="https://github.com/user-attachments/assets/e1876c6a-fe17-4a8e-9e66-1953efe0bb71" />
+</p>
+
+## GET /api/records
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot (1689)" src="https://github.com/user-attachments/assets/b7689c52-3eae-4380-9050-3848a6b930d5" />
+</p>
