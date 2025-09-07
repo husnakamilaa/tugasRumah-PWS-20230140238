@@ -16,13 +16,13 @@
 FORMWEB/
 ├── database/               # Pengaturan database
 │   └── db.js               # Koneksi database
-├── node_modules/           # Folder otomatis berisi library dari npm
 ├── public/                 # File statis (HTML, gambar, dll)
 │   ├── uploads/            # Tempat file yang di-upload
 │   ├── daftarPage.html     # Halaman daftar data
 │   └── form.html           # Halaman form input data
 ├── sql/                    # Script SQL
 │   └── formdiri_users.sql  # Struktur tabel database
+├── .gitignore              # File untuk mengabaikan node_modules
 ├── package-lock.json       # File pengunci versi library
 ├── package.json            # Konfigurasi project + daftar library
 ├── README.md               # Dokumentasi project
