@@ -24,6 +24,7 @@
 
 ## Struktur Folder
 
+```
 FORMWEB/
 ├── database/ # Pengaturan database
 │ └── db.js # Koneksi database
@@ -39,11 +40,13 @@ FORMWEB/
 ├── README.md # Dokumentasi project
 └── server.js # Server utama (Node.js)
 
+```
+
 ## Cara Menjalankan
 
-1. Install library yang dibutuhkan
+1. Install library yang dibutuhkan <br>
    npm install
-2. jalankan server
+2. jalankan server <br>
    node server.js
 3. Buka browser lalu akses <br>
    http://localhost:3380/api/records : untuk akses get <br>
