@@ -32,20 +32,33 @@ FORMWEB/
 
 ## Cara Menjalankan
 
+1. Clone repository github ini
 
-3. Install library yang dibutuhkan
+   ```
+   git clone https://github.com/husnakamilaa/tugasRumah-PWS-20230140238.git
+   cd tugasRumah-PWS-20230140238
+   ```
+   
+2. Buat database 
+
+   - Masuk ke MySQL/phpMyAdmin <br>
+   - Buat database dengan nama ```formdiri``` <br>
+   - Import file SQL: <br>
+   source : ```source sql/formdiri_users.sql;```
+   
+4. Install library yang dibutuhkan
    
    ```
    npm install
    ```
    
-4. jalankan server
+5. jalankan server
    
    ```
    node server.js
    ```
    
-5. Buka browser lalu akses
+6. Buka browser lalu akses
    
    ```
    http://localhost:3380/api/records : untuk akses get 
