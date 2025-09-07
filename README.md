@@ -66,6 +66,8 @@ FORMWEB/
 
 ## Dokumentasi Project
 
+<div align="center">
+
 | **Halaman Form Input** |
 |:----------------------:|
 | <img src="https://github.com/user-attachments/assets/3a958784-f5dd-4f37-b6b4-5bc5ef9fcd5a" width="600" /> |
@@ -73,5 +75,8 @@ FORMWEB/
 | <img src="https://github.com/user-attachments/assets/e1876c6a-fe17-4a8e-9e66-1953efe0bb71" width="600" /> |
 | **GET /api/records** |
 | <img src="https://github.com/user-attachments/assets/b7689c52-3eae-4380-9050-3848a6b930d5" width="600" /> |
+
+</div>
+
 
 
